@@ -647,34 +647,34 @@ ul li { vertical-align: bottom; } /* close IE7 gap between list items */
   background-color:#FFFFFF;
 }
 #backlogs_container .stories .tracker1{
-  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#EDD5EE));
-  background: -moz-linear-gradient(top, #EEE, #EDD5EE);
-  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#EDD5EE);
-  background-color:#EDD5EE;
+  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#e8dcde));
+  background: -moz-linear-gradient(top, #EEE, #e8dcde);
+  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#e8dcde);
+  background-color:#e8dcde;
 }
-#backlogs_container .stories .tracker2{
-  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#E0E3FA));
-  background: -moz-linear-gradient(top, #EEE, #E0E3FA);
-  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#E0E3FA);
-  background-color:#E0E3FA;
-}
-#backlogs_container .stories .tracker3{
-  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#EAD6C8));
-  background: -moz-linear-gradient(top, #EEE, #EAD6C8);
-  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#EAD6C8);
-  background-color:#EAD6C8;
-}
-#backlogs_container .stories .tracker4{
-  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#E7FAE0));
-  background: -moz-linear-gradient(top, #EEE, #E7FAE0);
-  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#E7FAE0);
-  background-color:#E7FAE0;
+#backlogs_container .stories .tracker7{
+  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#ffe4b0));
+  background: -moz-linear-gradient(top, #EEE, #ffe4b0);
+  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#ffe4b0);
+  background-color:#ffe4b0;
 }
 #backlogs_container .stories .tracker5{
-  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#DAFEF8));
-  background: -moz-linear-gradient(top, #EEE, #DAFEF8);
-  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#DAFEF8);
-  background-color:#DAFEF8;
+  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#c1db76));
+  background: -moz-linear-gradient(top, #EEE, #c1db76);
+  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#c1db76);
+  background-color:#c1db76;
+}
+#backlogs_container .stories .tracker2{
+  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#d4e1e7));
+  background: -moz-linear-gradient(top, #EEE, #d4e1e7);
+  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#d4e1e7);
+  background-color:#d4e1e7;
+}
+#backlogs_container .stories .tracker3{
+  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#e7a969));
+  background: -moz-linear-gradient(top, #EEE, #e7a969);
+  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#e7a969);
+  background-color:#e7a969;
 }
 #backlogs_container .stories .tracker6{
   background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#EFF0BF));
@@ -682,7 +682,7 @@ ul li { vertical-align: bottom; } /* close IE7 gap between list items */
   filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#EFF0BF);
   background-color:#EFF0BF;
 }
-#backlogs_container .stories .tracker7{
+#backlogs_container .stories .tracker4{
   background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#FED0D0));
   background: -moz-linear-gradient(top, #EEE, #FED0D0);
   filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=#FED0D0);
@@ -718,4 +718,3 @@ ul li { vertical-align: bottom; } /* close IE7 gap between list items */
   background: -moz-linear-gradient(top, #EEE, red);
   filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=red);
 }
-
