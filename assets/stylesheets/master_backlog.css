@@ -710,3 +710,12 @@ ul li { vertical-align: bottom; } /* close IE7 gap between list items */
 
 /* show completed sprints */
 #show_completed_sprints { cursor:pointer; }
+
+/* differentiate private story */
+#backlogs_container .stories .private-story .id .t a {
+  background-color: red;
+  background: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(red));
+  background: -moz-linear-gradient(top, #EEE, red);
+  filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=1,GradientType=0,StartColorStr=#EEEEEE,EndColorStr=red);
+}
+
